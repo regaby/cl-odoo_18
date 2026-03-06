@@ -131,6 +131,7 @@
 
     'git-repos': [
         'https://github.com/regaby/cl-odoo_18.git',
+        'https://github.com/OCA/web.git',
     ],
 
     # list of images to use in the form 'name image-url'
